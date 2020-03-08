@@ -5,10 +5,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Category"
-    url: /cartegories/
+    url: /categories/
   - title: "Tags"
     url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+siderbar-blog:
+  - title: "Python"
+    url: "/categories/python"
